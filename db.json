@@ -74,4 +74,131 @@
       "id": 505,
       "category": "food",
       "title": "Vegan Bake-Off",
-      "description": "The tastiest cruelty-free desserts in
+      "description": "The tastiest cruelty-free desserts in town.",
+      "location": "Sweet Street",
+      "date": "December 01, 2022",
+      "time": "15:00",
+      "organizer": "Patty Cake"
+    },
+    {
+      "id": 606,
+      "category": "technology",
+      "title": "AI Ethics Seminar",
+      "description": "Discussing the future of human-AI collaboration.",
+      "location": "Future Hub",
+      "date": "January 15, 2023",
+      "time": "13:00",
+      "organizer": "Dee Ta"
+    },
+    {
+      "id": 707,
+      "category": "animal welfare",
+      "title": "Dog Training 101",
+      "description": "Teach your pup the essential commands.",
+      "location": "Bark Park",
+      "date": "February 20, 2023",
+      "time": "10:00",
+      "organizer": "Walker Texas-Ranger"
+    },
+    {
+      "id": 808,
+      "category": "sustainability",
+      "title": "Upcycling Workshop",
+      "description": "Turn your old clothes into trendy bags.",
+      "location": "Eco Village",
+      "date": "March 05, 2023",
+      "time": "11:30",
+      "organizer": "Penny Pincher"
+    },
+    {
+      "id": 909,
+      "category": "health",
+      "title": "Morning Yoga Flow",
+      "description": "Sunrise stretches for all skill levels.",
+      "location": "Zen Garden",
+      "date": "April 18, 2023",
+      "time": "07:00",
+      "organizer": "Barry M. Deep"
+    },
+    {
+      "id": 110,
+      "category": "arts",
+      "title": "Street Art Festival",
+      "description": "Live mural painting and local music.",
+      "location": "Graffiti Alley",
+      "date": "May 22, 2023",
+      "time": "12:00",
+      "organizer": "Artie Choke"
+    },
+    {
+      "id": 211,
+      "category": "food",
+      "title": "Coffee Tasting Tour",
+      "description": "Explore the nuances of Ethiopian beans.",
+      "location": "Roasters Row",
+      "date": "June 10, 2023",
+      "time": "09:00",
+      "organizer": "Joe Beans"
+    },
+    {
+      "id": 312,
+      "category": "science",
+      "title": "Stargazing Night",
+      "description": "Observation of the Milky Way with experts.",
+      "location": "Moonlight Peak",
+      "date": "July 14, 2023",
+      "time": "22:00",
+      "organizer": "Luna Tick"
+    },
+    {
+      "id": 413,
+      "category": "business",
+      "title": "Startup Pitch Night",
+      "description": "Local entrepreneurs present their ideas.",
+      "location": "Launchpad Lab",
+      "date": "August 30, 2023",
+      "time": "18:00",
+      "organizer": "Bill Board"
+    },
+    {
+      "id": 514,
+      "category": "education",
+      "title": "Language Exchange",
+      "description": "Practice your Spanish over coffee.",
+      "location": "Global Cafe",
+      "date": "September 05, 2023",
+      "time": "17:00",
+      "organizer": "Poly Glot"
+    },
+    {
+      "id": 615,
+      "category": "sports",
+      "title": "Outdoor Rock Climbing",
+      "description": "Guided climbs for beginners.",
+      "location": "Boulder Ridge",
+      "date": "October 12, 2023",
+      "time": "08:00",
+      "organizer": "Cliff Hanger"
+    },
+    {
+      "id": 716,
+      "category": "sustainability",
+      "title": "Zero Waste Living",
+      "description": "Learn how to reduce your household trash.",
+      "location": "Green Hall",
+      "date": "November 03, 2023",
+      "time": "14:30",
+      "organizer": "Dusty Rhodes"
+    },
+    {
+      "id": 817,
+      "category": "music",
+      "title": "Rock the Dock",
+      "description": "Local bands performing by the waterfront.",
+      "location": "Harbor View",
+      "date": "December 20, 2023",
+      "time": "20:00",
+      "organizer": "Axel Rose"
+    }
+]
+}

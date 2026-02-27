@@ -29,6 +29,49 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
-  ]
-}
+    },
+    {
+      "id": 101,
+      "category": "education",
+      "title": "Coding for Kids",
+      "description": "A fun workshop introducing Python to youngsters.",
+      "location": "Silicon Valley",
+      "date": "August 05, 2022",
+      "time": "09:00",
+      "organizer": "Al Gorythm"
+    },
+    {
+      "id": 202,
+      "category": "music",
+      "title": "Jazz in the Park",
+      "description": "Evening of smooth saxophone and community vibes.",
+      "location": "Blue Note Square",
+      "date": "September 12, 2022",
+      "time": "19:00",
+      "organizer": "Ella Phant"
+    },
+    {
+      "id": 303,
+      "category": "sports",
+      "title": "Charity Fun Run",
+      "description": "5K run to support local youth programs.",
+      "location": "Swift Stadium",
+      "date": "October 10, 2022",
+      "time": "08:30",
+      "organizer": "Will Power"
+    },
+    {
+      "id": 404,
+      "category": "arts",
+      "title": "Pottery Wheel Basics",
+      "description": "Get your hands dirty and create your first bowl.",
+      "location": "Clay Canyon",
+      "date": "November 15, 2022",
+      "time": "14:00",
+      "organizer": "Harry Potter"
+    },
+    {
+      "id": 505,
+      "category": "food",
+      "title": "Vegan Bake-Off",
+      "description": "The tastiest cruelty-free desserts in
